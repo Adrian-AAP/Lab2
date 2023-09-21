@@ -5,7 +5,7 @@
 # Archivo "ConsProceso.sh" corresponde al inciso 3 de la parte de scripting y procsos
 #
 #
-# "ConsProceso.sh" tiene un problema al utilizar gnuploy
+# "ConsProceso.sh" tiene un problema al utilizar gnuplot
 # Parece ser por el formato de los LOG
 #
 #
