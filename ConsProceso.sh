@@ -54,7 +54,7 @@ do
 		echo "$temp  $cpu" >> $logcpu
 		echo "$temp  $mem" >> $logmem
 
-		sleep 1s #Espera 30 segundos
+		sleep 30s #Espera 30 segundos
 	else
 		activo=1
 		
