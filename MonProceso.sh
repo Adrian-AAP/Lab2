@@ -7,7 +7,7 @@ if [ $# -ne 2 ]; then
 	echo "Debe introducir exactamente 2 parametros"
 fi
 
-count=$(pgrep -c "$1"
+count=$(pgrep -c "$1")
 
 if [ $count -eq 0 ]; then
 	echo "No hay ningun proceso con este nombre"
